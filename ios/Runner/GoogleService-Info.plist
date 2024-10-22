@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>926701010198-aoh6dab24m0ge8unf34qebfdk6757had.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.926701010198-aoh6dab24m0ge8unf34qebfdk6757had</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>926701010198-vd8qbmkekt76govn4715eeiub14u225o.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBgVCAlMB0quLv0vU1oaoyikerL4pJyzSU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>926701010198</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.lessit.app</string>
+	<key>PROJECT_ID</key>
+	<string>lessit-new</string>
+	<key>STORAGE_BUCKET</key>
+	<string>lessit-new.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:926701010198:ios:e4a736a41816879a602437</string>
+</dict>
+</plist>
