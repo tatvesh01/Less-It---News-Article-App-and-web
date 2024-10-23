@@ -356,16 +356,16 @@ class AddNewsScreenController extends GetxController {
     final client = await clientViaServiceAccount(ServiceAccountCredentials.fromJson(
         {
           "type": "service_account",
-          "project_id": "lessit-new",
-          "private_key_id": "56afc475e332c8693b18a6e6e040bdcbae816fd0",
-          "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC4ScMkWXWN+IOz\nZPFasT+u19pDHio4sQtxwHE03Cv6GKQzv/mjBIoET+jStbO+hoWoDdwHyZa0eHl6\ntaY5XdU2tv/TFmDIDm9Zbq9wdug3fwEa+PHuDWTfSyTug8L3tZfm2mJoX/Ks+ZX5\nRrHeDyJCujuXRKvKTj5lWblr7G/AxCkqwRzpMssXkl92gjG7T/Uoimqy5Thgial0\n7+UmMnD+YyQ6DtO0AONAfNDA7YOjkjXbR8PTE2emh4yXiTwSr/Cd3YmzbaxQiBRY\nbuEjx0Tg8fvSDP2pmI2dq3RKFNNiJXybZ3dhD+FEslU90N57ryzjJ7yXZCsBo8gp\n3cbDPHYzAgMBAAECggEABh7nt6SuU4F2LlZ4mwCEEvSMWpT9O1Ygq9iDv15d/40j\nTFdgnS92E1/sEFjZ7XFeWGSNcvIZFUljD4D0/QwcHBhxNWZANKTLbKGme1/CUAWM\ngy7S1OCRAcbnJRzZ3uGjIpcM6avgzX9EoeYyhiOOib98YdvKsN9vEcKsdo8rGbCG\nWXhwuwsjdwt4Cibslh7e1kGOHvZyYRit1sIe1tXsk5nh5STDzklxMTvMNreY/oYS\nwWd1g+jeQ+sKDAWEIYmk7c7XJ0L0fNuLfME3o7hHXu+mtAKrDBAtj/qDloYkW3/e\nFNxrwx1KZP3VINQpANgyAw1AsyBa666g2xq33J/WsQKBgQDw3N2p01ptt316+7y2\nlY2qzO/bTDXYYoVeHvKcocSE9SvhWjaVPASohvpoLw+di/n1rCqbHj4wdZV+uiQ2\ndCZesn1Oz2DFBqdHiI+urKt16UodYA1FcgjpeYE/p8QT8jXn7ccm2tuAeEXwZT7Y\nOO1G8Rvm4rUKQc3zAf3qs8mjXQKBgQDD3rE+xRnafeximmm8apYI1WcUofj/mt0j\nLdl/modlJx0N1CmtDmFvpga/JjxVzvE/2ny1NUwjk0WP5XGMl1mvx1XsjMUwsyzk\nnNL/Y+iPAD0e24feAHQV+GeSNXB6Pueh6/q5LJ41F6ry67UDjh9qdsxGkVrps/hs\n58mOg672zwKBgFNMfxiBcK+rGqlSsEQQ2qqsL3OPGrwX7nnLiColQ/qbc65+7YuU\n8yN5ctZfGC5rP2n4Pc/hmK5Xq/jk1StD5hUv82gzDgt1rpptnwtQygeAQ9J+6ngO\n5QghrlJeadBgHsZ0FEDaxbjbX4yw5xgOL/kt33FtDCFc+qXFFZR60ww9AoGBAJuK\nXUBWbuhl9PB8ZJj+HzTWmmv1D/GSvibwgvZk9T3raJQRtiK598AcnODwcRtHIacu\nTrfrohHiImxZrOkTS2JeLiqRwwmgT3cf3iJ26Ted3euCM4uk2oqT31No4nABQhoA\ndfLUrrHEoLkVWoJ/Ow1lV2R2izZo908sZY+pnKhbAoGAVZM/vxgUoajeDagEB7HH\n7n3sPXJ6hXvRFX5hHa42jYgj/Gh+225AHS9vYxpS87/hXtdURgK022ntewAcnt3H\ntmGug75Pa4/mPJvfZktk/2FshTF206nPBQ0M0VxCahFOMb2axIyKYn9UyDa+PnjI\nnvPCTfJMkRv0JnUOP0uDdMU=\n-----END PRIVATE KEY-----\n",
-          "client_email": "firebase-adminsdk-3tjwg@lessit-new.iam.gserviceaccount.com",
-          "client_id": "106235062433262755229",
-          "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-          "token_uri": "https://oauth2.googleapis.com/token",
-          "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-          "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-3tjwg%40lessit-new.iam.gserviceaccount.com",
-          "universe_domain": "googleapis.com"
+          "project_id": "****",
+          "private_key_id": "*************", // enter your id here
+          "private_key": "*****",// enter your key here
+          "client_email": "******", // enter your email here
+          "client_id": "***",
+          "auth_uri": "****",
+          "token_uri": "****",
+          "auth_provider_x509_cert_url": "***",
+          "client_x509_cert_url": "******",
+          "universe_domain": "*****"
         }
     ), datas);
 
